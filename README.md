@@ -107,11 +107,11 @@ This project demonstrates how **real-time sentiment analysis can enhance financi
 
 ---
 
-## **Contact & Contributions**  
+## Contact & Contributions  
+
 Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.  
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)  
 
 ---
 
