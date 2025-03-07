@@ -55,7 +55,26 @@ The analysis focuses on:
 
 ---
 
+## **How to Run This Project**  
 
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/JordanConallLuthaisWright/Sentiment-Analysis-for-NVIDIA-Stock-Price-Feb-2025-News-.git
+2. **Navigate to the project directory**
+   ```bash
+   cd sentiment-stock-analysis
+3. **Install dependencies**
+   ```bash
+   pip install pandas numpy matplotlib seaborn nltk
+4. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook
+5. Open and execute the cells, "Sentiment Analysis for Feb 2025 News for NVIDIA stock price.ipynb"
+6. Note: **Remember to ADD YOUR API KEY**
+   To fetch the latest financial news, update your API key in the script:
+   ```bash
+   API_KEY = "your_news_api_key_here"
+   
 ---
 
 ## **Results & Key Findings**  
