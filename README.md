@@ -1,0 +1,2 @@
+# Sentiment-Analysis-for-NVIDIA-Stock-Price-Feb-2025-News-
+This project applies sentiment analysis and financial data engineering to assess how news sentiment impacts Nvidia’s stock price. Using VADER NLP, it processes news headlines, aggregates sentiment scores, and correlates them with stock trends. Key skills include data processing, visualization, market analysis, and sentiment-based forecasting.
